@@ -5,4 +5,6 @@
 
 # Supported tags and respective Dockerfile links
 
-* `latest`
+| Tags            	| OS Version 	|
+|-----------------	|------------	|
+| `latest`, `6.0` 	| Debian 11  	|
