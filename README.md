@@ -3,7 +3,7 @@
 * **Maintained by:**  
 [BrammyS](https://github.com/BrammyS)
 
-# Supported tags and respective Dockerfile links
+# Supported tags and respective OS Version
 
 | Tags            	| OS Version 	|
 |-----------------	|------------	|
